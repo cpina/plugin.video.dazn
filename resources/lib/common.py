@@ -17,6 +17,7 @@ from string import capwords
 from time import mktime, sleep, strptime
 from uuid import UUID
 
+import calendar
 import xbmc
 import xbmcaddon
 import xbmcgui
